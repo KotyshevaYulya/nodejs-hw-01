@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Wilhelmina",
+    "phone": "545-711-9161",
+    "email": "wmoxham0@webs.com",
+    "job": "Recruiter"
+  },
+  {
+    "id": 2,
+    "first_name": "Salomon",
+    "phone": "138-175-4097",
+    "email": "sbakhrushkin1@fda.gov",
+    "job": "Safety Technician IV"
+  },
+  {
+    "id": 3,
+    "first_name": "Jocelyn",
+    "phone": "610-498-0018",
+    "email": "jgulston2@paypal.com",
+    "job": "Clinical Specialist"
+  },
+  {
+    "id": 4,
+    "first_name": "Renado",
+    "phone": "803-261-2510",
+    "email": "rosgodby3@issuu.com",
+    "job": "Quality Engineer"
+  },
+  {
+    "id": 5,
+    "first_name": "Chiquita",
+    "phone": "606-901-2086",
+    "email": "ckleis4@dailymotion.com",
+    "job": "Tax Accountant"
+  },
+  {
+    "id": 6,
+    "first_name": "Nani",
+    "phone": "886-271-0977",
+    "email": "nissett5@mysql.com",
+    "job": "Nurse Practicioner"
+  },
+  {
+    "id": 7,
+    "first_name": "Eldredge",
+    "phone": "817-368-7048",
+    "email": "ekasman6@pagesperso-orange.fr",
+    "job": "Software Test Engineer II"
+  },
+  {
+    "id": 8,
+    "first_name": "Shamus",
+    "phone": "412-721-1968",
+    "email": "sdwerryhouse7@youku.com",
+    "job": "Desktop Support Technician"
+  },
+  {
+    "id": 9,
+    "first_name": "Rennie",
+    "phone": "395-367-7319",
+    "email": "rcuckoo8@yandex.ru",
+    "job": "Account Executive"
+  },
+  {
+    "id": 10,
+    "first_name": "Saloma",
+    "phone": "257-621-1923",
+    "email": "starpey9@edublogs.org",
+    "job": "VP Sales"
+  }
+]
